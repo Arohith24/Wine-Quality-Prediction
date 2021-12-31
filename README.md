@@ -1,4 +1,12 @@
 # Azure Wine-Quality-Prediction
+
+**GALLERY LINKS**
+
+Training Experiment- https://gallery.cortanaintelligence.com/Experiment/Wine-Quality-Prediction-6
+
+Predicitve Experiment- https://gallery.cortanaintelligence.com/Experiment/Wine-Quality-Prediction-6
+
+
 **PROJECT STATEMENT**
 
 The dataset is related to the red variant of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).These datasets can be viewed as regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones). 
@@ -51,7 +59,9 @@ Output variable (based on sensory data): quality (score between 3 and 8).
 
 **CONCLUSION**
 
-The interest has been increased in the wine industry in recent years which demands growth in this industry. Therefore, companies are investing in new technologies to improve wine(production and selling) quality. In this direction, wine quality certification plays a very important role for both processes and it requires wine testing by human experts. The work done in this experiment  will explore the usage of machine learning techniques. How linear regression determines the important features for prediction and how we used other methods and functions to predict the values. The benchmark dataset of Red wine is used, which contains 1599 rows x 12 columns of data samples. The dataset contains 12 physicochemical characteristics. This experiment shows that the dependent variable can be predicted more accurately if only important features are considered in the prediction rather than considering all features. In the future, Large datasets can be taken for experiments and other machine learning techniques may be explored for wine quality prediction. The project is done on MICROSOFT AZURE MACHINE LEARNING STUDIO which is a cloud based machine learning platform which is a part of Cortana Analytics Suite,where one could build experiments through just drag and drop method  and the experiments can be published to azure gallery.This studio has wide range of applications, where one can use different machine learning techniques to build experiments in a more precise manner,it can also deploy a webservice,and all of this can be done withot a single piece of code.    
+The interest has been increased in the wine industry in recent years which demands growth in this industry. Therefore, companies are investing in new technologies to improve wine(production and selling) quality. In this direction, wine quality certification plays a very important role for both processes and it requires wine testing by human experts. The work done in this experiment  will explore the usage of machine learning techniques. How linear regression determines the important features for prediction and how we used other methods and functions to predict the values. The benchmark dataset of Red wine is used, which contains 1599 rows x 12 columns of data samples. The dataset contains 12 physicochemical characteristics. This experiment shows that the dependent variable can be predicted more accurately if only important features are considered in the prediction rather than considering all features. In the future, Large datasets can be taken for experiments and other machine learning techniques may be explored for wine quality prediction.
+
+The project is done on MICROSOFT AZURE MACHINE LEARNING STUDIO(classic) which is a cloud based machine learning platform which is a part of Cortana Analytics Suite,where one could build experiments through just drag and drop method  and the experiments can be published to azure gallery.This studio has wide range of applications, where one can use different machine learning techniques to build experiments in a more precise manner,it can also deploy a webservice,and all of this can be done withot a single piece of code.    
 
 
 
