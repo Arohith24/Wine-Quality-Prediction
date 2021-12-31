@@ -12,6 +12,7 @@ Show which features are more important in determining the wine quality.
 Show which features are less important in determining the wine quality As mentioned earlier, our target variable will be wine quality, which is scored between 3 and 8.
 the output  varies from low to high. Low category contains wines whose quality is 3 or 4, Medium category contains wines whose quality is 5 or 6, High category wines whose quality is 7 or 8.
 
+
 **DASET AND DATA INFORMATION**
 
 The datatset contains of 1599 rows and 12 coloumns where each feature contributes it part in the preparation of the wine. The information about the features is given below 
@@ -42,9 +43,15 @@ The datatset contains of 1599 rows and 12 coloumns where each feature contribute
 
 Output variable (based on sensory data): quality (score between 3 and 8).
 
+
+**WHY LINEAR REGRESSION**
+
+We used linear regression because regression analysis allows us to understand the strength of relationships between variables. And regression analysis tells you what predictors in a model are statistically significant and which are not. In simpler terms, if you give a regression model 50 features, you can find out which features are good predictors for the target variable and which aren’t.Regression analysis can give a confidence interval for each regression coefficient that it estimates. Not only can you estimate a single coefficient for each feature, but you can also get a range of coefficients with a level of confidence (e.g., 99% confidence) that the coefficient is in.
+
+
 **CONCLUSION**
 
-The interest has been increased in the wine industry in recent years which demands growth in this industry. Therefore, companies are investing in new technologies to improve wine(production and selling) quality. In this direction, wine quality certification plays a very important role for both processes and it requires wine testing by human experts. The work done in this paper will explore the usage of machine learning techniques. How linear regression determines the important features for prediction and how we used other methods and functions to predict the values. The benchmark dataset of Red wine is used, which contains 1599 rows x 12 columns of data samples. The dataset contains 12 physicochemical characteristics. This experiment shows that the dependent variable can be predicted more accurately if only important features are considered in the prediction rather than considering all features. In the future, Large datasets can be taken for experiments and other machine learning techniques may be explored for wine quality prediction 
+The interest has been increased in the wine industry in recent years which demands growth in this industry. Therefore, companies are investing in new technologies to improve wine(production and selling) quality. In this direction, wine quality certification plays a very important role for both processes and it requires wine testing by human experts. The work done in this paper will explore the usage of machine learning techniques. How linear regression determines the important features for prediction and how we used other methods and functions to predict the values. The benchmark dataset of Red wine is used, which contains 1599 rows x 12 columns of data samples. The dataset contains 12 physicochemical characteristics. This experiment shows that the dependent variable can be predicted more accurately if only important features are considered in the prediction rather than considering all features. In the future, Large datasets can be taken for experiments and other machine learning techniques may be explored for wine quality prediction. The project is done on MICROSOFT AZURE MACHINE LEARNING STUDIO which is a cloud based machine learning platform where we could build experiments through just drag and drop method,this studio has wide range of applications, where we can use different machine learning techniques to build experiments in a more precise manner, we can also deploy a webservice and all of this can be done withot a single piece of code.   
 
 
 
