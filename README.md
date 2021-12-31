@@ -2,9 +2,9 @@
 
 **GALLERY LINKS**
 
-Training Experiment- https://gallery.cortanaintelligence.com/Experiment/Wine-Quality-Prediction-6
+Experiment- https://gallery.cortanaintelligence.com/Experiment/Wine-Quality-Prediction-6
 
-Predicitve Experiment- https://gallery.cortanaintelligence.com/Experiment/Wine-Quality-Prediction-6
+
 
 
 **PROJECT STATEMENT**
